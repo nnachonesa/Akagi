@@ -1,16 +1,3 @@
-## things to do in 
+# Akagi
 
-* ~~detect text~~
-* ~~detect voice~~
-* ~~text - voice~~
-* ~~voice - text~~
-* ~~voice - voice~~
-* ~~text - ia~~
-* ~~voice - ia~~
-* ~~system call~~
-* ~~key press~~
-* ~~context (mas o menos que diga que vaya al punto con las respuestas)~~
-* ~~cambiar voz, que hable con silero tts y voicevox~~
-* ~~vtube studio implementation~~ https://youtu.be/UgK3NLhSphg
-* analyze screen
-* osu
+## Just an interpreter of voice that answer
